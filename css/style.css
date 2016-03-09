@@ -14,13 +14,13 @@
 
     .navbar-outside {
       display:block;
-      background-color: #313732;
+      background-color: white;
       height:80px;
     }
 
     .navbar {
       display:block;
-      background-color: #313732;
+      background-color: indianRed;
       height:80px;
       margin:0 auto;
       min-width:600px;
@@ -37,15 +37,15 @@
 
     .navigation li a {
       text-decoration: none;
-      color:#FFFFFF;
+      color: black;
     }
 
     .navigation li:hover {
-      background-color: #F26101;
+      background-color: mistyRose;
     }
     
     .active {
-        background-color: #4CAF50;
+        background-color: pink;
         color: white;
     }
     /* END NAVBAR CSS */
